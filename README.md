@@ -1,4 +1,4 @@
-### Hello World! I'm João Barbosa 👋
+### Olá mundo! Eu sou o João Barbosa 👋
 
 - 🔭 Hoje trabalho como Anlista de Automação Comercial
 - 😄 Entusiasta da tenologia no geral.
