@@ -2,7 +2,7 @@
 
 - 🔭 Analista de Automação Comercial
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
-- 😄 Entusiasta da tenologia no geral.
+- 😄 Entusiasta de tecnologia no geral.
 - 🌱 Estudando Java (Spring, JavaFx) e frameworks da stack...
 - ⚡ Fato engraçado: Sabiam que o nome verdadeiro do Pac-Man era Puck-Man, do japonês Paku-Paku (que significa abrir e fechar a boca). Eles mudaram, pois achavam que o nome era facilmente deturpado trocando a letra 'P' por 'F'....
 
