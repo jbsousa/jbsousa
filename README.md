@@ -16,9 +16,10 @@
 ## Skills :nerd_face: 
 <!-- Most Languages Icons -->
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Joao-Java" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Joao-Java" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
   <img align="center" alt="Joao-Linux" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
   <img align="center" alt="Joao-Bash" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg">
+  <img align="center" alt="Joao-PostGress" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img align="center" alt="Joao-MySQL" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="Joao-Spring" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
   <img align="center" alt="Joao-Android" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
