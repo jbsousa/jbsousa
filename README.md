@@ -16,14 +16,14 @@
 ## Skills :nerd_face: 
 <!-- Most Languages Icons -->
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Joao-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <!--img align="center" alt="Joao-Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"-->
-  <img align="center" alt="Joao-Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Joao-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Joao-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="Joao-Android" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="Joao-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Joao-Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Joao-Java" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Joao-Linux" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
+  <img align="center" alt="Joao-Bash" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg">
+  <img align="center" alt="Joao-MySQL" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Joao-Spring" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  <img align="center" alt="Joao-Android" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg">
+  <img align="center" alt="Joao-C" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img align="center" alt="Joao-Git" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   </div>
   
   ##
